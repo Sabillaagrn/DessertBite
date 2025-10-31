@@ -34,6 +34,9 @@ Proyek ini dibuat untuk memenuhi tugas UTS pemrograman aplikasi Android, dengan 
 ## 📱 Tampilan Aplikasi (Wireframe)
 Berikut contoh tampilan alur halaman pada aplikasi DessertBite:
 
+![Tampilan 1](Screenshoot/1.jpg)
+![Tampilan 2](Screenshoot/2.jpg)
+
 
 ## 🚀 Cara Menjalankan
 1. Clone repository ini ke komputer kamu  
